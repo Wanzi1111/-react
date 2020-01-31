@@ -1,0 +1,30 @@
+module.exports={
+    1:{
+        id:1,
+        titlename:"用户管理",
+        icon:"user",
+        name:"用户列表",
+        to:"/home/userlist"
+    },
+    2:{
+        id:2,
+        titlename:"用户管理",
+        icon:"user",
+        name:"添加用户",
+        to:"/home/useradd"
+    },   
+     3:{
+        id:3,
+        titlename:"角色管理",
+        icon:"team",
+        name:"角色列表",
+        to:"/home/rolelist"
+    },    
+    4:{
+        id:4,
+        titlename:"角色管理",
+        icon:"team",
+        name:"添加角色",
+        to:"/home/roleadd"
+    }
+}
